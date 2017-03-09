@@ -1,0 +1,33 @@
+<scene exported_by="USER" export_time="1447753072.98333" previous_export_time="1447753002.843394" formatVersion="1.0.1" >
+  <nodes >
+    <node name="rabbit.001" >
+      <position y="4.721334" z="-0.007265" x="0.000000" />
+      <rotation qw="1.000000" qx="0.000000" qz="-0.000000" qy="0.000000" />
+      <scale y="1.797379" z="1.797379" x="1.797379" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="rabbit" >
+        <position y="-0.452151" z="-0.000000" x="0.000000" />
+        <rotation qw="1.000000" qx="-0.000000" qz="-0.000000" qy="0.000000" />
+        <scale y="0.545891" z="0.545891" x="0.545891" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity damping_trans="0.03999999910593033" mass_radius="1.0" actor="False" ghost="False" lock_trans_z="False" lock_rot_y="False" meshFile="rabbit.mesh" physics_type="STATIC" friction_x="1.0" mass="1.0" velocity_max="0.0" damping_rot="0.10000000149011612" friction_z="1.0" anisotropic_friction="False" lock_trans_y="False" name="rabbit" inertia_tensor="0.4000000059604645" lock_trans_x="False" lock_rot_x="False" velocity_min="0.0" friction_y="1.0" lock_rot_z="False" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\USER\Desktop\blender3d\model_pro\rabbit\rabbit.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourDiffuse r="0.0" g="0.0" b="0.0" />
+    <colourBackground r="0.0" g="0.0" b="0.0" />
+    <colourAmbient r="0.0" g="0.0" b="0.0" />
+  </environment>
+</scene>

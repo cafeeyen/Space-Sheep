@@ -1,0 +1,33 @@
+<scene exported_by="USER" formatVersion="1.0.1" export_time="1446647388.35999" previous_export_time="0" >
+  <nodes >
+    <node name="yamroll.001" >
+      <position y="1.002272" z="-0.000000" x="0.000000" />
+      <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+      <scale y="1.189676" z="1.189676" x="1.189676" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="yamroll" >
+        <position y="0.446411" z="-0.000000" x="0.000000" />
+        <rotation qw="0.707107" qx="0.707107" qy="0.000000" qz="-0.000000" />
+        <scale y="0.840565" z="0.840565" x="0.840565" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity lock_rot_x="False" friction_y="1.0" anisotropic_friction="False" lock_trans_z="False" inertia_tensor="0.4000000059604645" damping_trans="0.03999999910593033" velocity_min="0.0" lock_rot_z="False" mass_radius="1.0" friction_x="1.0" damping_rot="0.10000000149011612" physics_type="STATIC" actor="False" velocity_max="0.0" lock_trans_x="False" name="yamroll" meshFile="yamroll.mesh" friction_z="1.0" ghost="False" mass="1.0" lock_trans_y="False" lock_rot_y="False" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\USER\Desktop\blender3d\model_pro\yamroll\mo_yamroll\yamroll.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.05087608844041824" r="0.05087608844041824" g="0.05087608844041824" />
+    <colourAmbient b="0.0" r="0.0" g="0.0" />
+    <colourDiffuse b="0.05087608844041824" r="0.05087608844041824" g="0.05087608844041824" />
+  </environment>
+</scene>

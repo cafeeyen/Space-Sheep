@@ -1,0 +1,33 @@
+<scene previous_export_time="1446809229.570711" export_time="1446809252.217584" exported_by="USER" formatVersion="1.0.1" >
+  <nodes >
+    <node name="choco.001" >
+      <position x="0.000000" z="-0.000000" y="5.085390" />
+      <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+      <scale x="1.000000" z="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="choco" >
+        <position x="0.000000" z="-0.000000" y="0.750902" />
+        <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+        <scale x="1.000000" z="1.000000" y="1.000000" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity velocity_max="0.0" anisotropic_friction="False" meshFile="choco.mesh" lock_rot_x="False" friction_y="1.0" friction_x="1.0" damping_trans="0.02539999969303608" name="choco" damping_rot="0.1589999943971634" lock_rot_z="False" lock_trans_x="False" lock_rot_y="False" mass="1.0" inertia_tensor="0.4000000059604645" lock_trans_y="False" ghost="False" friction_z="1.0" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" actor="False" mass_radius="1.0" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\USER\Desktop\blender3d\model_pro\choco\choco\choco.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourDiffuse r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+    <colourAmbient r="0.0" g="0.0" b="0.0" />
+    <colourBackground r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

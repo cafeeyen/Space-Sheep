@@ -1,0 +1,33 @@
+<scene formatVersion="1.0.1" export_time="1446810582.033793" exported_by="USER" previous_export_time="1446810515.106697" >
+  <nodes >
+    <node name="choco_bar.001" >
+      <position y="5.085390" z="-0.000000" x="0.000000" />
+      <rotation qz="-0.000000" qx="0.000000" qw="1.000000" qy="0.000000" />
+      <scale y="1.000000" z="1.000000" x="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="choco_bar" >
+        <position y="0.750902" z="-0.000000" x="0.000000" />
+        <rotation qz="-0.000000" qx="0.000000" qw="1.000000" qy="0.000000" />
+        <scale y="1.000000" z="1.000000" x="1.000000" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity inertia_tensor="0.4000000059604645" ghost="False" lock_rot_x="False" name="choco_bar" anisotropic_friction="False" damping_trans="0.02539999969303608" friction_y="1.0" lock_rot_y="False" velocity_max="0.0" physics_type="STATIC" lock_trans_y="False" lock_trans_x="False" lock_trans_z="False" velocity_min="0.0" mass="1.0" actor="False" meshFile="choco_bar.mesh" damping_rot="0.1589999943971634" friction_z="1.0" mass_radius="1.0" lock_rot_z="False" friction_x="1.0" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\USER\Desktop\blender3d\model_pro\choco\choco_bar\choco_bar.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+    <colourAmbient b="0.0" g="0.0" r="0.0" />
+    <colourDiffuse b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+  </environment>
+</scene>

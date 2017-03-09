@@ -1,0 +1,33 @@
+<scene formatVersion="1.0.1" export_time="1447756628.310062" previous_export_time="0" exported_by="USER" >
+  <nodes >
+    <node name="bomb.001" >
+      <position x="0.000000" y="1.106350" z="-0.000000" />
+      <rotation qz="-0.000000" qy="0.000000" qw="1.000000" qx="0.000000" />
+      <scale x="0.878910" y="0.878910" z="0.878910" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="bomb" >
+        <position x="0.000000" y="0.137354" z="-0.000000" />
+        <rotation qz="-0.000000" qy="0.000000" qw="1.000000" qx="0.000000" />
+        <scale x="1.137773" y="1.137773" z="1.137773" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity inertia_tensor="0.4000000059604645" friction_z="1.0" velocity_max="0.0" friction_x="1.0" lock_rot_y="False" lock_trans_z="False" friction_y="1.0" mass="1.0" lock_rot_z="False" actor="False" meshFile="bomb.mesh" ghost="False" mass_radius="1.0" lock_rot_x="False" damping_trans="0.03999999910593033" velocity_min="0.0" physics_type="STATIC" anisotropic_friction="False" lock_trans_x="False" name="bomb" lock_trans_y="False" damping_rot="0.10000000149011612" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\USER\Desktop\blender3d\model_pro\bomb\bomb\bomb.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourDiffuse b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+    <colourAmbient b="0.0" g="0.0" r="0.0" />
+    <colourBackground b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+  </environment>
+</scene>

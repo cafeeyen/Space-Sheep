@@ -1,0 +1,33 @@
+<scene exported_by="USER" previous_export_time="1447856644.912505" formatVersion="1.0.1" export_time="1447857329.954695" >
+  <nodes >
+    <node name="earth" >
+      <position y="1.256096" z="-0.000000" x="0.000000" />
+      <rotation qx="0.000000" qy="0.000000" qw="1.000000" qz="-0.000000" />
+      <scale y="2.285305" z="2.285305" x="2.285305" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="earth.001" >
+        <position y="0.492145" z="-0.000000" x="0.000000" />
+        <rotation qx="0.000000" qy="0.000000" qw="1.000000" qz="-0.000000" />
+        <scale y="0.817660" z="0.817660" x="0.817660" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity meshFile="earth.mesh" velocity_min="0.0" mass="1.0" physics_type="STATIC" lock_trans_x="False" actor="False" damping_rot="0.10000000149011612" damping_trans="0.03999999910593033" anisotropic_friction="False" mass_radius="1.0" friction_x="1.0" ghost="False" lock_rot_x="False" name="earth" lock_rot_y="False" lock_trans_z="False" friction_y="1.0" lock_rot_z="False" velocity_max="0.0" friction_z="1.0" inertia_tensor="0.4000000059604645" lock_trans_y="False" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\USER\Desktop\blender3d\model_pro\new_earth\earth.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourDiffuse b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+    <colourAmbient b="0.0" g="0.0" r="0.0" />
+    <colourBackground b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+  </environment>
+</scene>
